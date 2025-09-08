@@ -4,6 +4,7 @@ __pycache__/
 
 # Entornos virtuales
 venv/
-.env/
 .venv/
+.env/
+venv_energia/
 
