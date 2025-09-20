@@ -1,4 +1,4 @@
-# Proyecto de Probabilidad – Semana 3
+# Proyecto de Probabilidad – Semana 3 y Semana 4
 
 Este repositorio contiene el desarrollo de la **Actividad 1 – Semana 3** del curso de Probabilidad y Estadística.
 
@@ -27,7 +27,8 @@ pip install -r requirements.txt
 Colocar el archivo de datos (Datos.xlsx) en la carpeta data/ y ejecutar:
 
 ```
-python Probabilidad.py
+python Semana3.py
+python Semana4.py
 ```
 
 El script generará el archivo Reporte_Semana3.pdf con los resultados.
